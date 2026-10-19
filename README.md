@@ -2,6 +2,8 @@
 
 A daily puzzle for programmers, like Wordle: guess the programming language from five obfuscated lines.
 
+**Play it: https://mikemich.github.io/devdle/**
+
 ## How it plays
 
 - Each day has one snippet: five lines of real code.
